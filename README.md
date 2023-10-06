@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pigpiano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
